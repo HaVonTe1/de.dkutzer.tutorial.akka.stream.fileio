@@ -10,3 +10,9 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+.classpath
+.project
+src/test/resources/cat_1000.csv
+src/test/resources/cat_1_000_000.csv
+src/test/resources/cat_10_000_000.csv
+target
